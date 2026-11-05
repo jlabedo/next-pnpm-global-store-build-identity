@@ -1,0 +1,19 @@
+{
+  "node": "v26.13.0",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "next": "16.5.0-canary.41",
+  "lockfileSha256": "417a48d91251aea482fa6e04754030954dd5e27f66781f39c0bc2daca9df85f2",
+  "buildId": "fixed-build",
+  "nextStorePath": "@/next/16.5.0-canary.41/d9739b9540a5a931082e96c177613a44c8d84defed37ce780cd587768c8ef2a9/node_modules/next",
+  "bootstrap": {
+    "otherChunks": [
+      "static/chunks/2tz0hcoetub7v.js",
+      "static/chunks/2ks8j2ofqq6iw.js",
+      "static/chunks/33x_g5bqg4h6_.js"
+    ],
+    "runtimeModuleIds": [
+      67487
+    ]
+  }
+}

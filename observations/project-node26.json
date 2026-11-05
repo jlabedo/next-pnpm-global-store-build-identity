@@ -1,0 +1,19 @@
+{
+  "node": "v26.13.0",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "next": "16.5.0-canary.41",
+  "lockfileSha256": "417a48d91251aea482fa6e04754030954dd5e27f66781f39c0bc2daca9df85f2",
+  "buildId": "fixed-build",
+  "nextStorePath": "project",
+  "bootstrap": {
+    "otherChunks": [
+      "static/chunks/3-2hyalgzvdfy.js",
+      "static/chunks/2kgeiv0_rivix.js",
+      "static/chunks/2u9-j6i4d0fe2.js"
+    ],
+    "runtimeModuleIds": [
+      73074
+    ]
+  }
+}
